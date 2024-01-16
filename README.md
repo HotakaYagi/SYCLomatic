@@ -1,4 +1,6 @@
 # SYCLomatic
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FSYCLomatic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FSYCLomatic?ref=badge_shield)
+
 
   - [Introduction](#Introduction)
   - [Releases](#Releases)
@@ -8,6 +10,9 @@
   - [Useful Links](#Useful-links)
   - [License](#License)
   - [Contributing](#Contributing)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FSYCLomatic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FSYCLomatic?ref=badge_large)
 
 ## Introduction
 
